@@ -1,5 +1,5 @@
 //key create to gain access to weather map api
-var apiKey = '4d94af7fb548f25fb8e1f2e26b1328b9';
+var apiKey = '';
 //url required for get response
 var weatherApiUrl = 'http://api.openweathermap.org/data/2.5/weather?appid=' + apiKey + '&units=imperial&q=';
 
