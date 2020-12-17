@@ -1,7 +1,7 @@
 //api documentation for weather api: https://openweathermap.org/api
 
 //key created to gain access to weather map api
-var apiKey = '275d5dfdea53a2d3e3869f48d154e9ac';
+var apiKey = '';
 
 //input new york city
 var newYorkCity = "new+york"
